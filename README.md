@@ -80,11 +80,12 @@ Commands are case-insensitive — both LOGIN / login and MSG / msg work.
 
 ### Screen Recording:
 You can watch the short demo (server + 2 clients chatting) here:
-[https://www.loom.com/share/59d12060c50c4a2591165d7b63581e6e](url)
+https://www.loom.com/share/59d12060c50c4a2591165d7b63581e6e
 
 ### Optional Features (Implemented):
 1. WHO → list of active users
 2. DM <username> <text> → private messaging
 3. Case-insensitive command handling
 4. Graceful manual shutdown with Ctrl + C
+
 
